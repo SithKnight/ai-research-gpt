@@ -1,26 +1,26 @@
 # AI Research GPT Agent
-##Building and Deploying an AI Research GPT Agent
+## Building and Deploying an AI Research GPT Agent
 
-Getting Started
+**Getting Started**
 To get started with the app:
 
 ```py
-git clone url
+git clone [https://github.com/SithKnight/ai-research-gpt.git](https://github.com/SithKnight/ai-research-gpt.git)
 pip install -r requirements.txt 
 streamlit run app.py
 ```
-##Tools Used
+## Tools Used
 * browseless
 * serpapi
 * openai
 
-##Automation and Cloud Rendering
+## Automation and Cloud Rendering
 The app leverages:
 
 * Render (render.com) for API generation
 * Make (make.com) for automation tasks
 
-##Testing Locally
+## Testing Locally
 To run and test the FastAPI app locally:
 
 ```py
