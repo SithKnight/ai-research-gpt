@@ -5,7 +5,7 @@
 To get started with the app:
 
 ```py
-git clone [https://github.com/SithKnight/ai-research-gpt.git](https://github.com/SithKnight/ai-research-gpt.git)
+git clone https://github.com/SithKnight/ai-research-gpt.git
 pip install -r requirements.txt 
 streamlit run app.py
 ```
